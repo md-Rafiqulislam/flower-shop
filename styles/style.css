@@ -213,6 +213,42 @@ header {
     margin-right: 10px;
 }
 
+/* extra section */
+
+.extra {
+    margin: 6rem 0;
+}
+
+.extra-container {
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 4rem;
+    gap: 2rem;
+    margin: 0 auto;
+    background-color: #074944;
+    border-radius: 1rem;
+}
+
+.extra-description {
+    color: #FFF;
+    text-align: center;
+}
+
+.extra-description h2 {
+    font-size: 40px;
+    color: #eee2e2;
+}
+
+
+.extra-description p {
+    font-size: 16px;
+    line-height: 23px;
+    color:#a69fc0;
+}
+
+
 /* footer section */
 footer {
     height: 400px;
