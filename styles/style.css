@@ -168,3 +168,22 @@ header {
     border-radius: 1opx;
     margin-right: 10px;
 }
+
+/* footer section */
+footer {
+    height: 400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+}
+
+.footer-container {
+    text-align: center;
+}
+
+.footer-text {
+    color: rgb(136, 130, 130);
+    margin-top: 2rem;
+}
