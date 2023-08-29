@@ -1,0 +1,41 @@
+
+.btn-primary {
+    color: white;
+    background-color: #E55473;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 20px 42px;
+    border: none;
+}
+
+h1 {
+    line-height: 30px;
+    font-size: 65px;
+}
+
+header {
+    background-color: E55473;
+    width: 1920px 850px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner-description {
+    width: 710px;
+    height: 510px;
+    padding: 150px;
+}
+
+.banner-info {
+    margin: 60px 0;
+    line-height: 35px;
+}
+
+.banner-img {
+    margin-right: 80px;
+    width: 550px;
+}
