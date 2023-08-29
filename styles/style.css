@@ -13,6 +13,10 @@ h1 {
     font-size: 65px;
 }
 
+.colored {
+    color: #E55473;
+}
+
 header {
     background-color: E55473;
     width: 1920px 850px;
@@ -38,4 +42,29 @@ header {
 .banner-img {
     margin-right: 80px;
     width: 550px;
+}
+
+/* sell section */
+.sell {
+    background-color:#f1ebec;
+    height: 620px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 5rem;
+}
+
+.sell-description {
+    margin-left: 100px;
+}
+
+.sell-title {
+    font-size: 55px;
+    margin-bottom: 0;
+}
+
+.sell-img {
+    margin-right: 100px;
 }
