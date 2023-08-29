@@ -130,3 +130,41 @@ header {
 .insta-img {
     width: 250px;
 }
+
+/* deals section */
+.deals {
+    margin: 7rem 0;
+}
+
+.deals-container {
+    background-image: url('../images/Rectangle\ 9.png');
+    background-position: center;
+    background-size: cover;
+    width: 1140px;
+    height: 350px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+}
+
+.deals-container > h4 {
+    font-size: 45px;
+    margin-bottom: 0;
+}
+
+.deal-form {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.input-text {
+    padding: 21px 10rem 21px 1rem;
+    border-radius: 1opx;
+    margin-right: 10px;
+}
