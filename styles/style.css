@@ -69,3 +69,35 @@ header {
 .sell-img {
     margin-right: 100px;
 }
+
+/* instagram section */
+.instagram {
+    background-color: #f2f4f7;
+    margin: 8rem auto;
+    height: auto;
+    max-width: 1140px;
+    padding: 1rem;
+    border-radius: 1rem;
+
+}
+
+.instagram-top > h3 {
+    font-size: 45px;
+    text-align: center;
+}
+
+.instagram-top > p {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+.instagram-picture {
+    display: flex;
+    gap: 2rem;
+    justify-content: space-around;
+}
+
+.insta-img {
+    width: 250px;
+}
