@@ -44,6 +44,35 @@ header {
     width: 550px;
 }
 
+/* service section */
+
+.service {
+    margin: 9rem 0;
+}
+
+.service-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    width: 900px;
+    margin: 0 auto;
+    background-color: #edf7f7;
+    padding: 6rem 10rem;
+    border-radius: 1rem;
+}
+
+.service-point {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 0.7rem;
+    background-color: #ecf5f5;
+}
+
+
+
+
+
 /* sell section */
 .sell {
     background-color:#f1ebec;
